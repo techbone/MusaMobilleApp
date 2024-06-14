@@ -1,1 +1,1 @@
-react native app
+react native app with advanced typescript technology.
