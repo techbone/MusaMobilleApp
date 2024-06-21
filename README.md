@@ -1,1 +1,1 @@
-react native app with advanced typescriptt.
+react native app on expo with advanced typescript.
