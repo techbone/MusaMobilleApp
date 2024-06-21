@@ -1,1 +1,1 @@
-react native app with advanced TS.
+react native app with advanced typescriptt.
