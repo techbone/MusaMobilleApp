@@ -7,7 +7,7 @@ const router = useRouter();
 const about = () => {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text style={{ fontSize: 30 }}>About Page</Text>
+      <Text style={{ fontSize: 35 }}>About Page</Text>
       <Button onPress={() => router.back()} title="go back Home"></Button>
       <Button onPress={() => router.back()}></Button>
     </View>
